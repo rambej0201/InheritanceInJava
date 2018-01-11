@@ -1,0 +1,12 @@
+The process acquiring properties and behaviour, from one class to another class is called inheritance.
+
+We can achieve inheritance by using extends keyword
+
+Extends keyword declares relation between two classes, once relation is declared code is reused.
+
+Super Class / parent class
+
+Child class / sub class / derive class
+
+UML terminology inheritance called as "IS A" relationship
+
